@@ -1,2 +1,18 @@
-git init
-git status
+> git init
+> git status
+> git add ""
+> git status
+> git commit -m "Message"
+> git add '*.txt'
+> git log
+> git remote add origin https://github.com/try-git/try_git.git
+> git push -u origin master
+> git pull origin master
+> git diff HEAD
+> git reset octofamily/octodog.txt
+> git checkout -- octocat.txt
+> git branch clean_up
+> git checkout clean_up
+> git rm '*.txt'
+> git merge clean_up
+> git branch -d clean_up
