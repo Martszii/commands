@@ -1,0 +1,18 @@
+ls - list files
+cd {directory name} - change directory
+cd / - go to root (top) directory
+cd ~ - go to user home directory
+cd .. - go up a level
+mkdir {file name} - make a directory
+touch {filename} - create an empty file
+rm {filename} - remove a file
+rm -r {directory name} - remove a directory and all files within
+mv {filename} {new filename} - rename a file or folder
+open {filename} - open file in default program
+open {filename} -a "{program name}" - open file in specific application
+open . - open current directory
+
+HOT KEYS
+Command+k - clear the terminal screen
+Tab - autocomplete (if more than one files match, nothing happens, you will need to add more characters)
+Up/Down Arrows - previous commands
